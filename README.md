@@ -1,1 +1,2 @@
-# react-sliding-puzzle
+## `npm install`
+## `npm start`
